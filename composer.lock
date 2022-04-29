@@ -9614,13 +9614,7 @@
         "php": ">=8.0.2",
         "ext-ctype": "*",
         "ext-iconv": "*"
-    },"files.associations": {
-        "*.html": "twig"
-    },
-    "emmet.includeLanguages": {
-        "twig": "html"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
-    
 }
